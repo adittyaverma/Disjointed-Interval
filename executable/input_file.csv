@@ -1,0 +1,4 @@
+Action,Start Interval,End Interval
+add,1,5
+remove,2,3
+add,6,8
